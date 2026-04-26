@@ -1,0 +1,247 @@
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Belén Dueñas
+Edad: 20
+Carrera: CD
+Estudiante Belén Dueñas insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Eilyn Herrera
+Edad: 19
+Carrera: CD
+Estudiante Eilyn Herrera insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Nicolas Cardenas
+Edad: 19
+Carrera: CD
+Estudiante Nicolas Cardenas insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Camilo Hernandez
+Edad: 19
+Carrera: CD
+Estudiante Camilo Hernandez insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Angie Tobar
+Edad: 18
+Carrera: CD
+Estudiante Angie Tobar insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Jorge Zainea
+Edad: 25
+Carrera: CD
+Estudiante Jorge Zainea insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Miguel Camargo
+Edad: 24
+Carrera: CD
+Estudiante Miguel Camargo insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Joshua Trujillo
+Edad: 21
+Carrera: CD
+Estudiante Joshua Trujillo insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Valentina Bello
+Edad: 19
+Carrera: CD
+Estudiante Valentina Bello insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: María Guzman
+Edad: 19
+Carrera: CD
+Estudiante María Guzman insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Santiago Sandoval
+Edad: 19
+Carrera: CD
+Estudiante Santiago Sandoval insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Kevin Luengas
+Edad: 20
+Carrera: CD
+Estudiante Kevin Luengas insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Miguel Moreno
+Edad: 19
+Carrera: CD
+Estudiante Miguel Moreno insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Ailyn Gómez
+Edad: 19
+Carrera: CD
+Estudiante Ailyn Gómez insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Naomi Mosquera
+Edad: 20
+Carrera: CD
+Estudiante Naomi Mosquera insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Julian Duarte
+Edad: 20
+Carrera: CD
+Estudiante Julian Duarte insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: Valeria Villamil
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 1
+Nombre del compañero: Valeria Villamil
+Edad: 25
+Carrera: CD
+Estudiante Valeria Villamil insertado.
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 2
+Listado de estudiantes:
+{'_id': ObjectId('69ed7a26b2e9111317728c91'), 'nombre': 'Belen Dueñas', 'edad': 20, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7a81b2e9111317728c92'), 'nombre': 'Eilyn Herrera', 'edad': 13, 'carrera': 'cd'}
+{'_id': ObjectId('69ed7ad4b2e9111317728c93'), 'nombre': 'Belén Dueñas', 'edad': 20, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7ae9b2e9111317728c94'), 'nombre': 'Eilyn Herrera', 'edad': 19, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7afdb2e9111317728c95'), 'nombre': 'Nicolas Cardenas', 'edad': 19, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7b0fb2e9111317728c96'), 'nombre': 'Camilo Hernandez', 'edad': 19, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7b1fb2e9111317728c97'), 'nombre': 'Angie Tobar', 'edad': 18, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7b35b2e9111317728c98'), 'nombre': 'Jorge Zainea', 'edad': 25, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7b45b2e9111317728c99'), 'nombre': 'Miguel Camargo', 'edad': 24, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7b59b2e9111317728c9a'), 'nombre': 'Joshua Trujillo', 'edad': 21, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7b69b2e9111317728c9b'), 'nombre': 'Valentina Bello', 'edad': 19, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7b78b2e9111317728c9c'), 'nombre': 'María Guzman', 'edad': 19, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7b8bb2e9111317728c9d'), 'nombre': 'Santiago Sandoval', 'edad': 19, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7b9cb2e9111317728c9e'), 'nombre': 'Kevin Luengas', 'edad': 20, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7badb2e9111317728c9f'), 'nombre': 'Miguel Moreno', 'edad': 19, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7bbbb2e9111317728ca0'), 'nombre': 'Ailyn Gómez', 'edad': 19, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7bc8b2e9111317728ca1'), 'nombre': 'Naomi Mosquera', 'edad': 20, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7bd8b2e9111317728ca2'), 'nombre': 'Julian Duarte', 'edad': 20, 'carrera': 'CD'}
+{'_id': ObjectId('69ed7bf0b2e9111317728ca3'), 'nombre': 'Valeria Villamil', 'edad': 25, 'carrera': 'CD'}
+
+--- MENÚ DE ESTUDIANTES ---
+1. Insertar estudiante
+2. Listar estudiantes
+3. Actualizar edad
+4. Eliminar estudiante
+5. Salir
+Seleccione una opción: 5
